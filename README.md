@@ -3,7 +3,7 @@
 # 🚀 Ömer CloudRepo - CloudStream 3 Deposu
 
 [![Cloudstream](https://img.shields.io/badge/Cloudstream-3.0+-purple.svg?style=for-the-badge&logo=android)](https://github.com/recloudstream/cloudstream)
-[![Modül Sayısı](https://img.shields.io/badge/Aktif_Sağlayıcı-36_Modül-success.svg?style=for-the-badge&logo=codeforces)](https://github.com/omer-dogann/cloudrepo)
+[![Modül Sayısı](https://img.shields.io/badge/Aktif_Sağlayıcı-37_Modül-success.svg?style=for-the-badge&logo=codeforces)](https://github.com/omer-dogann/cloudrepo)
 [![Otomatik Derleme](https://img.shields.io/github/actions/workflow/status/omer-dogann/cloudrepo/Derleyici.yml?branch=main&label=Derleyici&style=for-the-badge&logo=github-actions)](https://github.com/omer-dogann/cloudrepo/actions)
 [![Lisans](https://img.shields.io/badge/Lisans-GPL--3.0-blue.svg?style=for-the-badge)](LICENSE)
 
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/omer-dogann/cloudrepo/main/repo.json
 
 ---
 
-## 📚 Modül Katalog Listesi (36 Aktif Sağlayıcı)
+## 📚 Modül Katalog Listesi (37 Aktif Sağlayıcı)
 
 Depoda bulunan tüm yayın sağlayıcılar kategorilerine göre aşağıda listelenmiştir:
 
@@ -50,6 +50,7 @@ Depoda bulunan tüm yayın sağlayıcılar kategorilerine göre aşağıda liste
 | **DiziMom** | Yabancı Dizi & Popüler Medya | 🟢 Aktif |
 | **DiziPal** | Güncel Dizi & Film | 🟢 Aktif |
 | **Dizilla** | HD Dizi Platformu | 🟢 Aktif |
+| **DramaFlix** | Asya Dizileri & Kısa Dramalar | 🟢 Aktif |
 | **FilmMakinesi** | 1080p Film İzle | 🟢 Aktif |
 | **FilmModu** | HD Film Modu | 🟢 Aktif |
 | **FullHDFilm** | Full HD Yayınlar | 🟢 Aktif |
