@@ -1,0 +1,753 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=128",
+        "fileHash": "sha256-6bfd7556414d7678f6ad67a2adfcd2649ced62bdf97ecbbc2fa6dc7a453263a5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 19319,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "AnimeciX",
+        "description": "AnimeciX T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/AnimeciX.cs3",
+        "name": "AnimeciX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animexe.net&sz=128",
+        "fileHash": "sha256-4e35f23944edde92657d11d10b3454614bcd8846df4ba9bc7af4a81d5f5f8b39",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 7612,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "Animexe",
+        "description": "Animexe T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Animexe.cs3",
+        "name": "Animexe"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animpow.com&sz=128",
+        "fileHash": "sha256-61d74cd88d53708e85d5e83d9b8ed0afe8e46cbe09ca42a1a2731ac49fba0e0b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 7616,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Animpow",
+        "description": "Animpow T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Animpow.cs3",
+        "name": "Animpow"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anizm.net&sz=128",
+        "fileHash": "sha256-14d1999d6d36af58ba91f6bf122cbcc72db0432cc016e46351b9a67f2b8de2fe",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 7620,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Anizm",
+        "description": "Anizm T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Anizm.cs3",
+        "name": "Anizm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
+        "fileHash": "sha256-8d98122ceae802167b117b66e2757188b298ca1726693c4042cbc20468793445",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 14321,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "CizgiMax",
+        "description": "CizgiMax T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/CizgiMax.cs3",
+        "name": "CizgiMax"
+    },
+    {
+        "fileHash": "sha256-d110ad48623f613c5bfa561c32cd4bc054520d6eb469ed26d7ee007ddb8c6154",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 7355,
+        "status": 1,
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "version": 1,
+        "internalName": "CloudRepoCore",
+        "description": "CloudRepo Ortak \u00c7ekirdek Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/CloudRepoCore.cs3",
+        "name": "CloudRepoCore"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=codanime.com&sz=128",
+        "fileHash": "sha256-557141bfd620131501082c2de35899dc4aec88e0c00b1bcd9f13edb73073ab50",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 7623,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "CodAnime",
+        "description": "CodAnime T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/CodAnime.cs3",
+        "name": "CodAnime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizibox.plus&sz=128",
+        "fileHash": "sha256-07e2bdbed56db6248f6726635b27c844ce1911c0e4c576495f7c87ce0b28023e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 22891,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "DiziBox",
+        "description": "DiziBox T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziBox.cs3",
+        "name": "DiziBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.com&sz=128",
+        "fileHash": "sha256-364ff0fe8a2d758127d5c332bc12fa6cb31a71f3adc6ed7bac04c79ef1ec9863",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 14646,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "DiziKorea",
+        "description": "DiziKorea T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziKorea.cs3",
+        "name": "DiziKorea"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
+        "fileHash": "sha256-787404adfd68a749a9cea85d6ff1cde1560fa148c8cdcea805ada22eb1bc8bfe",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 29831,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Dizilla",
+        "description": "Dizilla T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Dizilla.cs3",
+        "name": "Dizilla"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimom.live&sz=128",
+        "fileHash": "sha256-9c4257abf104a06127b19cadd9d4beab204a7089e29b5d8f4fa5415177668f2c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 15435,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "DiziMom",
+        "description": "DiziMom T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziMom.cs3",
+        "name": "DiziMom"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal.com&sz=128",
+        "fileHash": "sha256-3f4d8b4572b156f59fcd23df79ad1543973377b4b115082405a0ab982b87a427",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 20422,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "DiziPal",
+        "description": "DiziPal T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziPal.cs3",
+        "name": "DiziPal"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doeda.com&sz=128",
+        "fileHash": "sha256-e6483b09f0dbc7beedd81651be5dd278dde823d6c48ad3ccbd2d47e6c40a707b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12122,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Doeda",
+        "description": "Doeda T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Doeda.cs3",
+        "name": "Doeda"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doeda.one&sz=128",
+        "fileHash": "sha256-18c8b63bc3708b19cfc944237c1a11569239b18aa0eb2153ab1d9e75ec7d5159",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12129,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "DoedaOne",
+        "description": "DoedaOne T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DoedaOne.cs3",
+        "name": "DoedaOne"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaflix.cc&sz=128",
+        "fileHash": "sha256-e17452900fe6d1581a0597d0a7b7508657abdeb95293009b9be27ced14e28000",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 21017,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "DramaFlix",
+        "description": "DramaFlix T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DramaFlix.cs3",
+        "name": "DramaFlix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=evooli.com&sz=128",
+        "fileHash": "sha256-907d050eba0a85b8497052560868eff3d1e0fea7d74dfd5803cbf3c97a284872",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12113,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Evooli",
+        "description": "Evooli T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Evooli.cs3",
+        "name": "Evooli"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.pw&sz=128",
+        "fileHash": "sha256-2c19c0560cea1d443c58689365579b6ed93dc8beb2337b4b5b5bbb24cf375265",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12772,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FilmMakinesi",
+        "description": "FilmMakinesi T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FilmMakinesi.cs3",
+        "name": "FilmMakinesi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmodu.info&sz=128",
+        "fileHash": "sha256-a6869dcc9e04eebf5dacefd3843b9964ac6bf0eb18983cdae54dff734bf6044e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 16502,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "FilmModu",
+        "description": "FilmModu T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FilmModu.cs3",
+        "name": "FilmModu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=128",
+        "fileHash": "sha256-6215cafc45462279fb4159c787bd50aba72c7fe7f8eeee7d76cbec164c350a40",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 21993,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "FullHDFilm",
+        "description": "FullHDFilm T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FullHDFilm.cs3",
+        "name": "FullHDFilm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.pw&sz=128",
+        "fileHash": "sha256-7262db88d91ccbd115e992fb6197032e608898df677b9b87a2f9f27ea426efbe",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 20722,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "FullHDFilmizlesene",
+        "description": "FullHDFilmizlesene T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdabla.net&sz=128",
+        "fileHash": "sha256-d8fa15efd8f66b6def949108bbe20295dce3cfb189860eed51e674079a995c12",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12905,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "HDAbla",
+        "description": "HDAbla +18 Yeti\u015fkin CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/HDAbla.cs3",
+        "name": "HDAbla"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=128",
+        "fileHash": "sha256-de7851a6144afdbf4612c4353f75da96f4675d099a5eba7f763885b646a52ceb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 29487,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "HDFilmCehennemi",
+        "description": "HDFilmCehennemi T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaiadam.com&sz=128",
+        "fileHash": "sha256-6bb81cb6757245b34b8890535f8b9e1c7700a16fceaf73c4f169fead00b83123",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12173,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW",
+            "AnimeSearch",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "HentaiAdam",
+        "description": "HentaiAdam T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/HentaiAdam.cs3",
+        "name": "HentaiAdam"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaizm1.com&sz=128",
+        "fileHash": "sha256-4bc0ebd3484a11640b0d749e47e2fab8c90da90dc85dedef59d6509a1850f603",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12164,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW",
+            "AnimeSearch",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Hentaizm",
+        "description": "Hentaizm T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Hentaizm.cs3",
+        "name": "Hentaizm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=inatbox.com&sz=128",
+        "fileHash": "sha256-4077e93a712a05a2c4d3766a659820046425e5c8e5308868614f8c7c8dd24f5c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 35305,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "InatBox",
+        "description": "InatBox T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/InatBox.cs3",
+        "name": "InatBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.mobi&sz=128",
+        "fileHash": "sha256-81c425b30502c6580c82f17072688afc91d20c35325b28a33bd4f149e95f36b4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 18138,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "JetFilmizle",
+        "description": "JetFilmizle T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/JetFilmizle.cs3",
+        "name": "JetFilmizle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kalite18.net&sz=128",
+        "fileHash": "sha256-13089bd399f071ee4ea471f3933d7552a9ec8073d00abb1a254c4f38d52b3dbb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12120,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Kalite18",
+        "description": "Kalite18 T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Kalite18.cs3",
+        "name": "Kalite18"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=128",
+        "fileHash": "sha256-0f963b8b01957d34e31742301e9b6652d5c6ab645495ef4f86d507d90b10ac9c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 23575,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "KultFilmler",
+        "description": "KultFilmler T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/KultFilmler.cs3",
+        "name": "KultFilmler"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=porno80sw.org&sz=128",
+        "fileHash": "sha256-ea3b91ba4391d1ee160cf4d1b1558c528198074648c30632c00151ed1c85c94b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12138,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Porno80sw",
+        "description": "Porno80sw T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Porno80sw.cs3",
+        "name": "Porno80sw"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pornoanne.com&sz=128",
+        "fileHash": "sha256-dcd09f0788f65116310d835b8d9696794c99cce49b1803dee5de4c6981660511",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12142,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "PornoAnne",
+        "description": "PornoAnne T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/PornoAnne.cs3",
+        "name": "PornoAnne"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rectv.club&sz=128",
+        "fileHash": "sha256-821863848f874cc9592b5199ac867dc560240cad216789e6a5707f110ff548b1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 27117,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "RecTV",
+        "description": "RecTV T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/RecTV.cs3",
+        "name": "RecTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.com&sz=128",
+        "fileHash": "sha256-9c2025f56010e4163acf4d5a12d0d0d41c02fa18818f865b73b0446a089363bf",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 20498,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "SezonlukDizi",
+        "description": "SezonlukDizi T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/SezonlukDizi.cs3",
+        "name": "SezonlukDizi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=128",
+        "fileHash": "sha256-b0381f8f5bef13618f821678053a1ec7d5cdc3b83b3bf59e188beab4670a10c7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12950,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "AnimeSearch",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TrAnimaci",
+        "description": "TrAnimac\u0131 T\u00fcrk\u00e7e Anime CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/TrAnimaci.cs3",
+        "name": "TrAnimaci"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tranimeizle.co&sz=128",
+        "fileHash": "sha256-4c8c5a8d6ece599fb327fd21d47194e422ffd26664ddd2ec21fc90d51e33cd64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12956,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "AnimeSearch",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TRAnimeIzle",
+        "description": "TRAnime\u0130zle T\u00fcrk\u00e7e Anime CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/TRAnimeIzle.cs3",
+        "name": "TRAnimeIzle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=turkanime.co&sz=128",
+        "fileHash": "sha256-373ad3c6aff53f7eddf8b3c9b3f3f85359c85e0325f771bf91281c3e0f82e44f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 18313,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "TurkAnime",
+        "description": "TurkAnime T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/TurkAnime.cs3",
+        "name": "TurkAnime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=3x1.site&sz=128",
+        "fileHash": "sha256-59cb3dc54fb5331027a72ab16cfd17169f759cd1c74ddbeaafb5bbdf1f1a82f2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12126,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "UcXBir",
+        "description": "3x1 T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/UcXBir.cs3",
+        "name": "UcXBir"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.co&sz=128",
+        "fileHash": "sha256-2c9cbfbc48d890bdff0b3612f10d6c1fb9d0e3fd95ade05efe6897bce0134e69",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 23884,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "WebteIzle",
+        "description": "WebteIzle T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/WebteIzle.cs3",
+        "name": "WebteIzle"
+    }
+]

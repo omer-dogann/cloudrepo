@@ -1,0 +1,9 @@
+{
+    "name": "Ömer CloudRepo - CloudStream 3 Deposu",
+    "description": "Ömer CloudRepo - Tüm Türkçe Film, Dizi, Anime, Medya ve Yetişkin İçerik Eklentileri Paketi",
+    "manifestVersion": 1,
+    "iconUrl": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/main/.github/icons/Repo.jpg",
+    "pluginLists": [
+        "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/plugins.json"
+    ]
+}
