@@ -1,0 +1,645 @@
+[
+  {
+    "name": "AnimeciX",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "AnimeciX Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://anm.cx",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Anime"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\animecix\\AnimeciX.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\animecix\\AnimeciXModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\animecix\\AnimeciXPlugin.kt"
+    ]
+  },
+  {
+    "name": "Animexe",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Animexe Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://animexe.com",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "Anime"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\animexe\\Animexe.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\animexe\\AnimexePlugin.kt"
+    ]
+  },
+  {
+    "name": "Animpow",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Animpow Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://animpow.com",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "Anime"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\animpow\\Animpow.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\animpow\\AnimpowPlugin.kt"
+    ]
+  },
+  {
+    "name": "Anizm",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Anizm Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://anizm.com.tr",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "Anime"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\anizm\\Anizm.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\anizm\\AnizmPlugin.kt"
+    ]
+  },
+  {
+    "name": "CizgiMax",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "CizgiMax Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://cizgimax.online",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Cartoon"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\cizgimax\\CizgiMax.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\cizgimax\\CizgiMaxModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\cizgimax\\CizgiMaxPlugin.kt"
+    ]
+  },
+  {
+    "name": "CodAnime",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "CodAnime Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://codanime.net",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "Anime"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\codanime\\CodAnime.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\codanime\\CodAnimePlugin.kt"
+    ]
+  },
+  {
+    "name": "DiziBox",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "DiziBox Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.dizibox.live",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\dizibox\\DiziBox.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizibox\\DiziBoxPlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizibox\\DiziBoxUtils.kt"
+    ]
+  },
+  {
+    "name": "DiziKorea",
+    "version": 2,
+    "status": null,
+    "language": null,
+    "description": "DiziKorea Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://dizikorea3.com",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "AsianDrama"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\dizikorea\\DiziKorea.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizikorea\\DiziKoreaModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizikorea\\DiziKoreaPlugin.kt"
+    ]
+  },
+  {
+    "name": "DiziMom",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "DiziMom Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.dizimom.plus",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\dizimom\\DiziMom.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizimom\\DiziMomPlugin.kt"
+    ]
+  },
+  {
+    "name": "DiziPal",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "DiziPal Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://dizipal1219.com",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\dizipal\\DiziPal.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizipal\\DiziPalModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizipal\\DiziPalPlugin.kt"
+    ]
+  },
+  {
+    "name": "Dizilla",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Dizilla Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://dizilla40.com",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\dizilla\\ContentXExtractor.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizilla\\Dizilla.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizilla\\DizillaModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizilla\\DizillaPlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\dizilla\\HotlingerExtractor.kt"
+    ]
+  },
+  {
+    "name": "Doeda",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Doeda Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.doeda.com/roe",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\doeda\\Doeda.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\doeda\\DoedaPlugin.kt"
+    ]
+  },
+  {
+    "name": "DoedaOne",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "DoedaOne Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.doeda.one",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\doedaone\\DoedaOne.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\doedaone\\DoedaOnePlugin.kt"
+    ]
+  },
+  {
+    "name": "Evooli",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Evooli Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.evooli.com",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\evooli\\Evooli.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\evooli\\EvooliPlugin.kt"
+    ]
+  },
+  {
+    "name": "FilmMakinesi",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "FilmMakinesi Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://filmmakinesi.to",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\filmmakinesi\\FilmMakinesi.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\filmmakinesi\\FilmMakinesiPlugin.kt"
+    ]
+  },
+  {
+    "name": "FilmModu",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "FilmModu Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.filmmodu.vip",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\filmmodu\\FilmModu.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\filmmodu\\FilmModuModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\filmmodu\\FilmModuPlugin.kt"
+    ]
+  },
+  {
+    "name": "FullHDFilm",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "FullHDFilm Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://fullhdfilm.site",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilm\\FilmModuModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilm\\FullHDFilm.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilm\\FullHDFilmPlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilm\\IframeKodlayici.kt"
+    ]
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "FullHDFilmizlesene Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.fullhdfilmizlesene.life",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilmizlesene\\FullHDFilmizlesene.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilmizlesene\\FullHDFilmizlesenePlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\fullhdfilmizlesene\\IframeKodlayici.kt"
+    ]
+  },
+  {
+    "name": "HDAbla",
+    "version": 2,
+    "status": 1,
+    "language": "tr",
+    "description": "HDAbla Türkçe Film ve Dizi CloudRepo Modülü",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "mainUrl": "https://hdabla.net",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\hdabla\\HDAbla.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\hdabla\\HDAblaPlugin.kt"
+    ]
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "version": 2,
+    "status": null,
+    "language": null,
+    "description": "HDFilmCehennemi Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.hdfilmcehennemi.nl",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\hdfilmcehennemi\\HDFilmCehennemi.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\hdfilmcehennemi\\HDFilmCehennemiPlugin.kt"
+    ]
+  },
+  {
+    "name": "HentaiAdam",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "HentaiAdam Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://hentaiadam.com",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\hentaiadam\\HentaiAdam.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\hentaiadam\\HentaiAdamPlugin.kt"
+    ]
+  },
+  {
+    "name": "Hentaizm",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Hentaizm Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.hentaizm1.com",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\hentaizm\\Hentaizm.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\hentaizm\\HentaizmPlugin.kt"
+    ]
+  },
+  {
+    "name": "InatBox",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "InatBox Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": null,
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\CDNJWPlayer.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\DiskYandexComTrExtractor.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\DzenExtractor.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\InatBox.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\InatBoxModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\InatBoxPlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\inatbox\\VkExtractor.kt"
+    ]
+  },
+  {
+    "name": "JetFilmizle",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "JetFilmizle Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://jetfilmizle.website",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\jetfilmizle\\JetFilmizle.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\jetfilmizle\\JetFilmizleModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\jetfilmizle\\JetFilmizlePlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\jetfilmizle\\PixelDrainExtractor.kt"
+    ]
+  },
+  {
+    "name": "Kalite18",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Kalite18 Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.kalite18.net",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\kalite18\\Kalite18.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\kalite18\\Kalite18Plugin.kt"
+    ]
+  },
+  {
+    "name": "KultFilmler",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "KultFilmler Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://kultfilmler.net",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\kultfilmler\\KultFilmler.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\kultfilmler\\KultFilmlerPlugin.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\kultfilmler\\YildizKisaFilm.kt"
+    ]
+  },
+  {
+    "name": "Porno80sw",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "Porno80sw Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.porno80sw.org",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\porno80sw\\Porno80sw.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\porno80sw\\Porno80swPlugin.kt"
+    ]
+  },
+  {
+    "name": "PornoAnne",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "PornoAnne Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://pornoanne.com",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\pornoanne\\PornoAnne.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\pornoanne\\PornoAnnePlugin.kt"
+    ]
+  },
+  {
+    "name": "RecTV",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "RecTV Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://m.prectv50.sbs",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie",
+      "Live",
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\rectv\\RecTV.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\rectv\\RecTVModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\rectv\\RecTVPlugin.kt"
+    ]
+  },
+  {
+    "name": "SezonlukDizi",
+    "version": 2,
+    "status": null,
+    "language": null,
+    "description": "SezonlukDizi Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://sezonlukdizi.cc",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "TvSeries"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\sezonlukdizi\\SezonlukDizi.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\sezonlukdizi\\SezonlukDiziModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\sezonlukdizi\\SezonlukDiziPlugin.kt"
+    ]
+  },
+  {
+    "name": "TRAnimeIzle",
+    "version": 2,
+    "status": 1,
+    "language": "tr",
+    "description": "TRAnimeİzle Türkçe Anime CloudRepo Modülü",
+    "tvTypes": [
+      "AnimeSearch",
+      "Anime",
+      "OVA"
+    ],
+    "mainUrl": "https://www.tranimeizle.io",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\tranimeizle\\TRAnimeIzle.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\tranimeizle\\TRAnimeIzlePlugin.kt"
+    ]
+  },
+  {
+    "name": "TrAnimaci",
+    "version": 2,
+    "status": 1,
+    "language": "tr",
+    "description": "TrAnimacı Türkçe Anime CloudRepo Modülü",
+    "tvTypes": [
+      "AnimeSearch",
+      "Anime",
+      "OVA"
+    ],
+    "mainUrl": "https://tranimaci.com",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\tranimaci\\TrAnimaci.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\tranimaci\\TrAnimaciPlugin.kt"
+    ]
+  },
+  {
+    "name": "TurkAnime",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "TurkAnime Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://www.turkanime.tv",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Anime"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\turkanime\\TurkAnime.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\turkanime\\TurkAnimePlugin.kt"
+    ]
+  },
+  {
+    "name": "UcXBir",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "UcXBir Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://3x1.site",
+    "hasMainPage": false,
+    "supportedTypes": [
+      "NSFW"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\ucxbir\\UcXBir.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\ucxbir\\UcXBirPlugin.kt"
+    ]
+  },
+  {
+    "name": "WebteIzle",
+    "version": 1,
+    "status": null,
+    "language": null,
+    "description": "WebteIzle Türkçe CloudRepo Modülü",
+    "tvTypes": [],
+    "mainUrl": "https://webteizle.info",
+    "hasMainPage": true,
+    "supportedTypes": [
+      "Movie"
+    ],
+    "ktFiles": [
+      "src\\main\\kotlin\\com\\omer_dogan\\webteizle\\DzenRu.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\webteizle\\WebteIzle.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\webteizle\\WebteIzleModels.kt",
+      "src\\main\\kotlin\\com\\omer_dogan\\webteizle\\WebteIzlePlugin.kt"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+# Ömer Doğan CloudStream Derleyici Workflow
+name: CloudStream Derleyici
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - "**/*.md"
+      - "**/*.yml"
+      - "**/*.jpg"
+      - "**/*.png"
+      - "**/*.py"
+
+jobs:
+  CloudStreamDerleyici:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "'src' Depo Kontrolü"
+        uses: actions/checkout@v4.2.2
+        with:
+          path: "src"
+
+      - name: "'build' Depo Kontrolü"
+        uses: actions/checkout@v4.2.2
+        continue-on-error: true
+        with:
+          ref: "builds"
+          path: "builds"
+
+      - name: Eski Derlemeleri Temizle
+        run: |
+          mkdir -p $GITHUB_WORKSPACE/builds
+          rm -f $GITHUB_WORKSPACE/builds/*.cs3 || true
+
+      - name: JDK 17 Ayarla
+        uses: actions/setup-java@v4.6.0
+        with:
+          distribution: adopt
+          java-version: 17
+
+      - name: Android SDK Ayarla
+        uses: android-actions/setup-android@v3.2.2
+
+      - name: Eklentileri Derle
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          chmod +x gradlew
+          ./gradlew make makePluginsJson
+          find . -name "*.cs3" -exec cp {} $GITHUB_WORKSPACE/builds/ \;
+          cp build/plugins.json $GITHUB_WORKSPACE/builds/ || true
+          cp repo.json $GITHUB_WORKSPACE/builds/ || true
+          cp kur.json $GITHUB_WORKSPACE/builds/ || true
+
+      - name: Derlemeleri Yükle
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          if [ ! -d ".git" ]; then
+            git init
+            git checkout -b builds
+            git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || true
+          fi
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git commit -m "Auto Build: $GITHUB_SHA" || true
+          git push origin builds || git push -u origin builds --force || exit 0

@@ -1,0 +1,26 @@
+{
+  "resolvers": [
+    {
+      "name": "DiziPal",
+      "defaultUrl": "https://dizipal1219.com",
+      "fallbackUrls": ["https://dizipal1220.com", "https://dizipal1221.com"],
+      "redirectCheckUrl": "https://dizipal.com"
+    },
+    {
+      "name": "FilmMakinesi",
+      "defaultUrl": "https://filmmakinesi.to",
+      "fallbackUrls": ["https://filmmakinesi.pw", "https://filmmakinesi.net"],
+      "redirectCheckUrl": "https://filmmakinesi.com"
+    },
+    {
+      "name": "HDFilmCehennemi",
+      "defaultUrl": "https://www.hdfilmcehennemi.nl",
+      "fallbackUrls": ["https://www.hdfilmcehennemi.life", "https://www.hdfilmcehennemi.biz"]
+    },
+    {
+      "name": "FilmModu",
+      "defaultUrl": "https://www.filmmodu.vip",
+      "fallbackUrls": ["https://www.filmmodu.org"]
+    }
+  ]
+}
