@@ -3,8 +3,14 @@
     {
       "name": "DiziPal",
       "defaultUrl": "https://dizipal1219.com",
-      "fallbackUrls": ["https://dizipal1220.com", "https://dizipal1221.com"],
+      "fallbackUrls": ["https://dizipal1220.com", "https://dizipal1221.com", "https://dizipal.com"],
       "redirectCheckUrl": "https://dizipal.com"
+    },
+    {
+      "name": "DramaFlix",
+      "defaultUrl": "https://dramaflix.cc",
+      "fallbackUrls": ["https://dramaflix.net", "https://dramaflix.org"],
+      "redirectCheckUrl": "https://dramaflix.cc"
     },
     {
       "name": "FilmMakinesi",
@@ -21,6 +27,16 @@
       "name": "FilmModu",
       "defaultUrl": "https://www.filmmodu.vip",
       "fallbackUrls": ["https://www.filmmodu.org"]
+    },
+    {
+      "name": "WebteIzle",
+      "defaultUrl": "https://webteizle3.xyz",
+      "fallbackUrls": ["https://webteizle.info", "https://webteizle.net"]
+    },
+    {
+      "name": "SezonlukDizi",
+      "defaultUrl": "https://sezonlukdizi.cc",
+      "fallbackUrls": ["https://sezonlukdizi.vip", "https://sezonlukdizi.org"]
     }
   ]
 }
