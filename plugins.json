@@ -1,41 +1,41 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=128",
-        "fileHash": "sha256-2e5299d61b9ca545ce618c70b588400413f3ec1e0d953d07d1f2a4b232242248",
+        "fileHash": "sha256-6bfd7556414d7678f6ad67a2adfcd2649ced62bdf97ecbbc2fa6dc7a453263a5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 19321,
+        "fileSize": 19319,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Anime"
         ],
         "version": 3,
         "internalName": "AnimeciX",
-        "description": "AnimeciX Türkçe CloudRepo Modülü",
+        "description": "AnimeciX T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/AnimeciX.cs3",
         "name": "AnimeciX"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animexe.net&sz=128",
-        "fileHash": "sha256-dbd9e8a9c75808ffbc1adffe52c58c0296b10679f2141c29d14fe50eacada238",
+        "fileHash": "sha256-4e35f23944edde92657d11d10b3454614bcd8846df4ba9bc7af4a81d5f5f8b39",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 7616,
+        "fileSize": 7612,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Anime"
         ],
         "version": 3,
         "internalName": "Animexe",
-        "description": "Animexe Türkçe CloudRepo Modülü",
+        "description": "Animexe T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Animexe.cs3",
         "name": "Animexe"
     },
@@ -48,14 +48,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Anime"
         ],
         "version": 2,
         "internalName": "Animpow",
-        "description": "Animpow Türkçe CloudRepo Modülü",
+        "description": "Animpow T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Animpow.cs3",
         "name": "Animpow"
     },
@@ -68,14 +68,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Anime"
         ],
         "version": 2,
         "internalName": "Anizm",
-        "description": "Anizm Türkçe CloudRepo Modülü",
+        "description": "Anizm T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Anizm.cs3",
         "name": "Anizm"
     },
@@ -88,14 +88,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Cartoon"
         ],
         "version": 2,
         "internalName": "CizgiMax",
-        "description": "CizgiMax Türkçe CloudRepo Modülü",
+        "description": "CizgiMax T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/CizgiMax.cs3",
         "name": "CizgiMax"
     },
@@ -106,11 +106,11 @@
         "fileSize": 7355,
         "status": 1,
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "version": 1,
         "internalName": "CloudRepoCore",
-        "description": "CloudRepo Ortak Çekirdek Modülü",
+        "description": "CloudRepo Ortak \u00c7ekirdek Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/CloudRepoCore.cs3",
         "name": "CloudRepoCore"
     },
@@ -123,14 +123,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Anime"
         ],
         "version": 2,
         "internalName": "CodAnime",
-        "description": "CodAnime Türkçe CloudRepo Modülü",
+        "description": "CodAnime T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/CodAnime.cs3",
         "name": "CodAnime"
     },
@@ -143,14 +143,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "TvSeries"
         ],
         "version": 2,
         "internalName": "DiziBox",
-        "description": "DiziBox Türkçe CloudRepo Modülü",
+        "description": "DiziBox T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziBox.cs3",
         "name": "DiziBox"
     },
@@ -163,67 +163,67 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "AsianDrama"
         ],
         "version": 2,
         "internalName": "DiziKorea",
-        "description": "DiziKorea Türkçe CloudRepo Modülü",
+        "description": "DiziKorea T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziKorea.cs3",
         "name": "DiziKorea"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
-        "fileHash": "sha256-c2033a792e0ac82d7a145f0bf8a03a12161125c5e7bee4b52dc8251001fe2264",
+        "fileHash": "sha256-787404adfd68a749a9cea85d6ff1cde1560fa148c8cdcea805ada22eb1bc8bfe",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 29831,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "TvSeries"
         ],
         "version": 3,
         "internalName": "Dizilla",
-        "description": "Dizilla Türkçe CloudRepo Modülü",
+        "description": "Dizilla T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Dizilla.cs3",
         "name": "Dizilla"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimom.tv&sz=128",
-        "fileHash": "sha256-fe6bb7106232c6f0e3859f0191ab8142337a7375fd9c2d042ff4019ca57598f2",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimom.live&sz=128",
+        "fileHash": "sha256-9c4257abf104a06127b19cadd9d4beab204a7089e29b5d8f4fa5415177668f2c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 15441,
+        "fileSize": 15435,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "TvSeries"
         ],
         "version": 3,
         "internalName": "DiziMom",
-        "description": "DiziMom Türkçe CloudRepo Modülü",
+        "description": "DiziMom T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziMom.cs3",
         "name": "DiziMom"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal.com&sz=128",
-        "fileHash": "sha256-3a14cee401221aa9f3f6b01127f0ede24fd954d04eaf12fe185a6fd48defaad7",
+        "fileHash": "sha256-3f4d8b4572b156f59fcd23df79ad1543973377b4b115082405a0ab982b87a427",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 20423,
+        "fileSize": 20422,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "TvSeries",
@@ -231,67 +231,88 @@
         ],
         "version": 3,
         "internalName": "DiziPal",
-        "description": "DiziPal Türkçe CloudRepo Modülü",
+        "description": "DiziPal T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=doeda.com&sz=128",
-        "fileHash": "sha256-c8f54649731f94f4b7e914c419617b9ad4c1afc98ac9c85738b0a72626195af1",
+        "fileHash": "sha256-e6483b09f0dbc7beedd81651be5dd278dde823d6c48ad3ccbd2d47e6c40a707b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 12126,
+        "fileSize": 12122,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "Doeda",
-        "description": "Doeda Türkçe CloudRepo Modülü",
+        "description": "Doeda T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Doeda.cs3",
         "name": "Doeda"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=doeda.one&sz=128",
-        "fileHash": "sha256-201fab90ba45ae3fbdbbfa3949cf627833fe3158890754b6182080e5323d7ff0",
+        "fileHash": "sha256-18c8b63bc3708b19cfc944237c1a11569239b18aa0eb2153ab1d9e75ec7d5159",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 12129,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "DoedaOne",
-        "description": "DoedaOne Türkçe CloudRepo Modülü",
+        "description": "DoedaOne T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DoedaOne.cs3",
         "name": "DoedaOne"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=evooli.com&sz=128",
-        "fileHash": "sha256-1e31a585ae3f741d11a4e2569a4e316944cb56743863f0dfff07bbc370370a55",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaflix.cc&sz=128",
+        "fileHash": "sha256-e17452900fe6d1581a0597d0a7b7508657abdeb95293009b9be27ced14e28000",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 12115,
+        "fileSize": 21017,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "DramaFlix",
+        "description": "DramaFlix T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
+        "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/DramaFlix.cs3",
+        "name": "DramaFlix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=evooli.com&sz=128",
+        "fileHash": "sha256-907d050eba0a85b8497052560868eff3d1e0fea7d74dfd5803cbf3c97a284872",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
+        "fileSize": 12113,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "Evooli",
-        "description": "Evooli Türkçe CloudRepo Modülü",
+        "description": "Evooli T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Evooli.cs3",
         "name": "Evooli"
     },
@@ -304,94 +325,94 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 2,
         "internalName": "FilmMakinesi",
-        "description": "FilmMakinesi Türkçe CloudRepo Modülü",
+        "description": "FilmMakinesi T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FilmMakinesi.cs3",
         "name": "FilmMakinesi"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmodu.org&sz=128",
-        "fileHash": "sha256-a5add80b7bf17805aad8f876050bd6342d69919f544826a28aec5099ab761ec0",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmodu.info&sz=128",
+        "fileHash": "sha256-a6869dcc9e04eebf5dacefd3843b9964ac6bf0eb18983cdae54dff734bf6044e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 16502,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 3,
         "internalName": "FilmModu",
-        "description": "FilmModu Türkçe CloudRepo Modülü",
+        "description": "FilmModu T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FilmModu.cs3",
         "name": "FilmModu"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.site&sz=128",
-        "fileHash": "sha256-c1b90f561a412bb01e04d88cecf49730d1d03c5fc41f14b50ab6a8bb5fbb5d7b",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=128",
+        "fileHash": "sha256-6215cafc45462279fb4159c787bd50aba72c7fe7f8eeee7d76cbec164c350a40",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 21993,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 3,
         "internalName": "FullHDFilm",
-        "description": "FullHDFilm Türkçe CloudRepo Modülü",
+        "description": "FullHDFilm T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FullHDFilm.cs3",
         "name": "FullHDFilm"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.life&sz=128",
-        "fileHash": "sha256-09c01ca809025b25f455f230f234053064aeccd30b38581843e2c833652d896f",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlesene.pw&sz=128",
+        "fileHash": "sha256-7262db88d91ccbd115e992fb6197032e608898df677b9b87a2f9f27ea426efbe",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 20719,
+        "fileSize": 20722,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 3,
         "internalName": "FullHDFilmizlesene",
-        "description": "FullHDFilmizlesene Türkçe CloudRepo Modülü",
+        "description": "FullHDFilmizlesene T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdabla.net&sz=128",
-        "fileHash": "sha256-d01f5c9d699cdc2ee93fb350e900d0f042da9e5e2edc2a8c4d91ff8049c195b3",
+        "fileHash": "sha256-d8fa15efd8f66b6def949108bbe20295dce3cfb189860eed51e674079a995c12",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 12905,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "HDAbla",
-        "description": "HDAbla +18 Yetişkin CloudRepo Modülü",
+        "description": "HDAbla +18 Yeti\u015fkin CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/HDAbla.cs3",
         "name": "HDAbla"
     },
@@ -404,7 +425,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie",
@@ -412,20 +433,20 @@
         ],
         "version": 2,
         "internalName": "HDFilmCehennemi",
-        "description": "HDFilmCehennemi Türkçe CloudRepo Modülü",
+        "description": "HDFilmCehennemi T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hentaiadam.com&sz=128",
-        "fileHash": "sha256-a2f544aa76724f7e094852ad24bba774b69b666853ba850cbb7f45c1207c72da",
+        "fileHash": "sha256-6bb81cb6757245b34b8890535f8b9e1c7700a16fceaf73c4f169fead00b83123",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 12173,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW",
@@ -434,7 +455,7 @@
         ],
         "version": 3,
         "internalName": "HentaiAdam",
-        "description": "HentaiAdam Türkçe CloudRepo Modülü",
+        "description": "HentaiAdam T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/HentaiAdam.cs3",
         "name": "HentaiAdam"
     },
@@ -447,7 +468,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW",
@@ -456,7 +477,7 @@
         ],
         "version": 2,
         "internalName": "Hentaizm",
-        "description": "Hentaizm Türkçe CloudRepo Modülü",
+        "description": "Hentaizm T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Hentaizm.cs3",
         "name": "Hentaizm"
     },
@@ -469,7 +490,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie",
@@ -478,47 +499,47 @@
         ],
         "version": 2,
         "internalName": "InatBox",
-        "description": "InatBox Türkçe CloudRepo Modülü",
+        "description": "InatBox T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/InatBox.cs3",
         "name": "InatBox"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.mobi&sz=128",
-        "fileHash": "sha256-fa8c2b8fdfb05d585843d8131d2498726b4b48611af49a8fa5e2184fdfdf47e0",
+        "fileHash": "sha256-81c425b30502c6580c82f17072688afc91d20c35325b28a33bd4f149e95f36b4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 18133,
+        "fileSize": 18138,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 3,
         "internalName": "JetFilmizle",
-        "description": "JetFilmizle Türkçe CloudRepo Modülü",
+        "description": "JetFilmizle T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/JetFilmizle.cs3",
         "name": "JetFilmizle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kalite18.net&sz=128",
-        "fileHash": "sha256-a9c8412030b1ff7d08773b4febc872828f772cb835cb853ff5a51044ab53024d",
+        "fileHash": "sha256-13089bd399f071ee4ea471f3933d7552a9ec8073d00abb1a254c4f38d52b3dbb",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 12120,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "Kalite18",
-        "description": "Kalite18 Türkçe CloudRepo Modülü",
+        "description": "Kalite18 T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Kalite18.cs3",
         "name": "Kalite18"
     },
@@ -531,14 +552,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 2,
         "internalName": "KultFilmler",
-        "description": "KultFilmler Türkçe CloudRepo Modülü",
+        "description": "KultFilmler T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/KultFilmler.cs3",
         "name": "KultFilmler"
     },
@@ -551,34 +572,34 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 2,
         "internalName": "Porno80sw",
-        "description": "Porno80sw Türkçe CloudRepo Modülü",
+        "description": "Porno80sw T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/Porno80sw.cs3",
         "name": "Porno80sw"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pornoanne.com&sz=128",
-        "fileHash": "sha256-a583cff396a95501934dee7cb35285597e0e57c3ea032bde98425c72feea48ee",
+        "fileHash": "sha256-dcd09f0788f65116310d835b8d9696794c99cce49b1803dee5de4c6981660511",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 12142,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "PornoAnne",
-        "description": "PornoAnne Türkçe CloudRepo Modülü",
+        "description": "PornoAnne T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/PornoAnne.cs3",
         "name": "PornoAnne"
     },
@@ -591,7 +612,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie",
@@ -600,7 +621,7 @@
         ],
         "version": 2,
         "internalName": "RecTV",
-        "description": "RecTV Türkçe CloudRepo Modülü",
+        "description": "RecTV T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/RecTV.cs3",
         "name": "RecTV"
     },
@@ -613,14 +634,14 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "TvSeries"
         ],
         "version": 2,
         "internalName": "SezonlukDizi",
-        "description": "SezonlukDizi Türkçe CloudRepo Modülü",
+        "description": "SezonlukDizi T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/SezonlukDizi.cs3",
         "name": "SezonlukDizi"
     },
@@ -633,7 +654,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "AnimeSearch",
@@ -642,7 +663,7 @@
         ],
         "version": 2,
         "internalName": "TrAnimaci",
-        "description": "TrAnimacı Türkçe Anime CloudRepo Modülü",
+        "description": "TrAnimac\u0131 T\u00fcrk\u00e7e Anime CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/TrAnimaci.cs3",
         "name": "TrAnimaci"
     },
@@ -655,7 +676,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "AnimeSearch",
@@ -664,7 +685,7 @@
         ],
         "version": 2,
         "internalName": "TRAnimeIzle",
-        "description": "TRAnimeİzle Türkçe Anime CloudRepo Modülü",
+        "description": "TRAnime\u0130zle T\u00fcrk\u00e7e Anime CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/TRAnimeIzle.cs3",
         "name": "TRAnimeIzle"
     },
@@ -677,55 +698,55 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Anime"
         ],
         "version": 2,
         "internalName": "TurkAnime",
-        "description": "TurkAnime Türkçe CloudRepo Modülü",
+        "description": "TurkAnime T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/TurkAnime.cs3",
         "name": "TurkAnime"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=3x1.site&sz=128",
-        "fileHash": "sha256-77f600ed95b26ba4cd7f45bbdc951f7d3ad04723256c79e27fd2c540606874a1",
+        "fileHash": "sha256-59cb3dc54fb5331027a72ab16cfd17169f759cd1c74ddbeaafb5bbdf1f1a82f2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
         "fileSize": 12126,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 3,
         "internalName": "UcXBir",
-        "description": "3x1 Türkçe CloudRepo Modülü",
+        "description": "3x1 T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/UcXBir.cs3",
         "name": "UcXBir"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
-        "fileHash": "sha256-827dd41a18746fcd095a24078e3b04d012b4fbd76c2f53c48751b24137121c66",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.co&sz=128",
+        "fileHash": "sha256-2c9cbfbc48d890bdff0b3612f10d6c1fb9d0e3fd95ade05efe6897bce0134e69",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/omer-dogann/cloudrepo",
-        "fileSize": 23882,
+        "fileSize": 23884,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Ömer Doğan"
+            "\u00d6mer Do\u011fan"
         ],
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "WebteIzle",
-        "description": "WebteIzle Türkçe CloudRepo Modülü",
+        "description": "WebteIzle T\u00fcrk\u00e7e CloudRepo Mod\u00fcl\u00fc",
         "url": "https://raw.githubusercontent.com/omer-dogann/cloudrepo/builds/WebteIzle.cs3",
         "name": "WebteIzle"
     }
