@@ -41,7 +41,7 @@ import org.jsoup.nodes.Document
 
 
 class Evooli : MainAPI() {
-    override var mainUrl              = "https://evooli.com"
+    override var mainUrl              = "http://www.evooli.com"
     override var name                 = "Evooli"
     override val hasMainPage          = true
     override var lang                 = "tr"

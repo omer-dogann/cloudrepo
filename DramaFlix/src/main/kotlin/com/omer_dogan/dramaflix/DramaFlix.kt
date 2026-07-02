@@ -7,7 +7,7 @@ import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
 class DramaFlix : MainAPI() {
-    override var mainUrl = "https://dramaflix.cc"
+    override var mainUrl = "https://dramaflix.cc/en"
     override var name = "DramaFlix"
     override val hasMainPage = true
     override var lang = "tr"

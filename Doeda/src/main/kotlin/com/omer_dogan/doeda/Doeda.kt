@@ -41,7 +41,7 @@ import org.jsoup.nodes.Document
 
 
 class Doeda : MainAPI() {
-    override var mainUrl              = "https://www.doeda.com"
+    override var mainUrl              = "http://www.doeda.com/yoe"
     override var name                 = "Doeda (ROE)"
     override val hasMainPage          = true
     override var lang                 = "tr"

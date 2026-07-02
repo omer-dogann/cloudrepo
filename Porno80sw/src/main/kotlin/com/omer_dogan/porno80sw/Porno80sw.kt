@@ -41,7 +41,7 @@ import org.jsoup.nodes.Document
 
 
 class Porno80sw : MainAPI() {
-    override var mainUrl              = "https://www.porno80sw.org"
+    override var mainUrl              = "https://www.porno80sr.site"
     override var name                 = "Porno80sw"
     override val hasMainPage          = true
     override var lang                 = "tr"

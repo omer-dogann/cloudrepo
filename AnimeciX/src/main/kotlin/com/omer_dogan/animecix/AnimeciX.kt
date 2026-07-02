@@ -44,7 +44,7 @@ import org.jsoup.nodes.Document
 
 
 class AnimeciX : MainAPI() {
-    override var mainUrl              = "https://animecix.net"
+    override var mainUrl              = "https://animecix.tv"
     override var name                 = "AnimeciX"
     override val hasMainPage          = true
     override var lang                 = "tr"

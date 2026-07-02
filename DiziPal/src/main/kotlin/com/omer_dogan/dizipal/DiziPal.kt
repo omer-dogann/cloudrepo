@@ -16,7 +16,7 @@ import java.net.URLEncoder
 
 
     class DiziPal : MainAPI() {
-    override var mainUrl              = "https://dizipal.com"
+    override var mainUrl              = "http://ww1.dizipal.com"
     override var name                 = "DiziPal"
     override val hasMainPage          = true
     override var lang                 = "tr"
