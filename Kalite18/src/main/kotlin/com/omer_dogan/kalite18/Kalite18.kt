@@ -41,7 +41,7 @@ import org.jsoup.nodes.Document
 
 
 class Kalite18 : MainAPI() {
-    override var mainUrl              = "https://kalite18.net"
+    override var mainUrl              = "https://www.kalite18.net"
     override var name                 = "Kalite18"
     override val hasMainPage          = true
     override var lang                 = "tr"
