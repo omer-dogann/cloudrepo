@@ -41,7 +41,7 @@ import org.jsoup.nodes.Document
 
 
 class TRAnimeIzle : MainAPI() {
-    override var mainUrl              = "https://www.tranimeizle.io"
+    override var mainUrl              = "https://www.tranimeizle.live"
     override var name                 = "TRAnimeİzle"
     override val hasMainPage          = true
     override var lang                 = "tr"
